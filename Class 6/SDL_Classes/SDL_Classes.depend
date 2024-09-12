@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1725993838 source:/home/krohn/LinguagemC/SDL_Classes/main.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<Context.h>
+	<Color.h>
+	<Point.h>
+	<Line.h>
+
+1725302992 /home/krohn/LinguagemC/SDL_Classes/include/Component.h
+	<SDL2/SDL.h>
+
+1725303282 source:/home/krohn/LinguagemC/SDL_Classes/src/Component.cpp
+	"Component.h"
+	"Color.h"
+
+1725305337 source:/home/krohn/LinguagemC/SDL_Classes/src/Point.cpp
+	"Point.h"
+
+1725302342 /home/krohn/LinguagemC/SDL_Classes/include/Point.h
+
+1725994254 source:/home/krohn/LinguagemC/SDL_Classes/src/Color.cpp
+	"Color.h"
+	"Context.h"
+
+1725994196 /home/krohn/LinguagemC/SDL_Classes/include/Color.h
+	<SDL2/SDL.h>
+
+1725994448 source:/home/krohn/LinguagemC/SDL_Classes/src/Line.cpp
+	"Line.h"
+	"Context.h"
+
+1725995037 /home/krohn/LinguagemC/SDL_Classes/include/Line.h
+	<Point.h>
+	<Color.h>
+	<SDL2/SDL.h>
+
+1725992696 source:/home/krohn/LinguagemC/SDL_Classes/src/Context.cpp
+	"Context.h"
+
+1725992612 /home/krohn/LinguagemC/SDL_Classes/include/Context.h
+	<SDL2/SDL.h>
+
+1726094725 source:c:\projects\codeblocks\sdl_classes\main.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<unistd.h>
+	<Context.h>
+	<Color.h>
+	<Point.h>
+	<Line.h>
+
+1726094728 c:\projects\codeblocks\sdl_classes\include\context.h
+	<SDL2/SDL.h>
+
+1726094728 c:\projects\codeblocks\sdl_classes\include\color.h
+	<SDL2/SDL.h>
+
+1726094728 c:\projects\codeblocks\sdl_classes\include\point.h
+
+1726094728 c:\projects\codeblocks\sdl_classes\include\line.h
+	<Point.h>
+	<Color.h>
+	<SDL2/SDL.h>
+
